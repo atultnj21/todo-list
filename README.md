@@ -29,5 +29,5 @@
 
 #### create new node
 
-<img src="./images/CreateNoteMobile.jpg" width="200">
+<img src="./images/CreateNoteMobile.jpg" height="400" width="200">
 <!-- ![CreateNoteMobile](./images/CreateNoteMobile.jpg) -->
