@@ -24,8 +24,10 @@
 
 #### Front page
 
-![FrontPageMobile](./images/FrontPageMobile.jpg)
+<!-- ![FrontPageMobile](./images/FrontPageMobile.jpg) -->
+<img src="./images/FrontPageMobile.jpg" height="400" width="200">
 
 #### create new node
 
-![CreateNoteMobile](./images/CreateNoteMobile.jpg)
+<img src="./images/CreateNoteMobile.jpg" width="200">
+<!-- ![CreateNoteMobile](./images/CreateNoteMobile.jpg) -->
