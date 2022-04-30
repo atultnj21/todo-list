@@ -12,11 +12,11 @@
 
 ### desktop view
 
-#### create new node
+#### create new note
 
 ![CreateNoteDesktop](./images/CreateNoteDesktop.png)
 
-#### update node using the edit icon
+#### update note using the edit icon
 
 ![UpdateNoteDesktop](./images/UpdateNoteDesktop.png)
 
@@ -27,7 +27,7 @@
 <!-- ![FrontPageMobile](./images/FrontPageMobile.jpg) -->
 <img src="./images/FrontPageMobile.jpg" height="400" width="200">
 
-#### create new node
+#### create new note
 
 <img src="./images/CreateNoteMobile.jpg" height="400" width="200">
 <!-- ![CreateNoteMobile](./images/CreateNoteMobile.jpg) -->
